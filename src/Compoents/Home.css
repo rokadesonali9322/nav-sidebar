@@ -1,0 +1,25 @@
+.home {
+  padding: 4rem;
+  font-size: 2rem;
+  overflow: hidden !important;
+}
+.leftside {
+  padding: 13rem 0;
+}
+.leftside h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  color: rgb(3, 3, 97);
+}
+.leftside p {
+  font-size: 1.8rem;
+  padding: 1.3rem 0;
+  color: rgb(61, 60, 60);
+}
+.leftside button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1.8rem;
+  text-transform: capitalize;
+}

@@ -1,0 +1,37 @@
+.guide {
+  padding-top: 2rem !important;
+  padding: 0 2rem;
+}
+.guide h1 {
+  padding-top: 7rem;
+  font-size: 3.3rem;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  overflow-y: hidden;
+  color: rgb(28, 28, 250);
+  font-weight: bold;
+}
+.guide p {
+  padding: 2rem 0;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  font-size: 1.5rem;
+}
+.guide img {
+  padding-left: 2rem;
+}
+.guide button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1.4rem;
+  text-transform: capitalize;
+}
+.guide_left {
+  padding: 3rem 0;
+}
+.guide_left h3 {
+  padding: 5rem;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  line-height: 36px;
+  color: rgb(2, 2, 75);
+}
